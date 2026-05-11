@@ -1,4 +1,3 @@
-# Using-hashmap-in-java
 import java.io.File;
 import java.util.Scanner;
 import java.util.HashMap;
