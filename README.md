@@ -36,4 +36,4 @@ public class UsingHashmap {
   }
   System.out.println("Grand Total of all products : " + gtotal);
   }
- }
+ 
